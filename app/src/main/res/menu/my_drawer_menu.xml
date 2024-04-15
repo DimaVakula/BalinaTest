@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Остальные элементы вашего основного меню -->
+    <item
+        android:title="Photos"
+        android:id="@+id/photos_nav_menu"/>
+    <item
+        android:title="Map"
+        android:id="@+id/map_nav_menu"/>
+
+</menu>
